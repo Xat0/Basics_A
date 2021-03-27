@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int main6() {
 
 	double height, weight, bmi;
 

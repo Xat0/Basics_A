@@ -143,6 +143,7 @@
     <ClCompile Include="Basics_B.cpp" />
     <ClCompile Include="Basics_C.cpp" />
     <ClCompile Include="Challenge_BMI_CC_1.cpp" />
+    <ClCompile Include="Challenge_DogAge_CC_1.cpp" />
     <ClCompile Include="Challenge_Temperature_CC_2.cpp" />
     <ClCompile Include="Challenge_Temperature_Codecademy.cpp" />
   </ItemGroup>
