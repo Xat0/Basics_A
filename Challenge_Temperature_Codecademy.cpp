@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int main4() {
 	
 	// Converting temperature from Farenheit to Celcius
 	
