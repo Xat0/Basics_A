@@ -2,7 +2,7 @@
 #include <cmath>
 
 
-int main() {
+int main8() {
 
 	// The official Codecademy answer
 
