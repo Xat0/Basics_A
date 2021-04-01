@@ -39,5 +39,8 @@
     <ClCompile Include="Challenge_Quadratic_CC_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Challenge_VendingMachine_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
