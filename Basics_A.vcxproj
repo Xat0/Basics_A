@@ -149,6 +149,7 @@
     <ClCompile Include="Challenge_Temperature_Codecademy.cpp" />
     <ClCompile Include="Challenge_TilesWH_1.cpp" />
     <ClCompile Include="Challenge_VendingMachine_1.cpp" />
+    <ClCompile Include="Challenge_VowelCounter_1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

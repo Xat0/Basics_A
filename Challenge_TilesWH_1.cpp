@@ -21,7 +21,7 @@ figure out how much labor costs would be given that the average flooring team ca
 
 */
 
-int main() {
+int main11() {
 
 	double width;
 	double length;
