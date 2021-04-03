@@ -4,7 +4,7 @@
 
 // Codecademy code
 
-int main() {
+int main13() {
 
 	// Create a number that's 0 or 1
 
@@ -25,5 +25,5 @@ int main() {
 
 	}
 
-
+	return 0;
 }
