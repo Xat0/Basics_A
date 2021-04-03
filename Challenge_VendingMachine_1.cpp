@@ -23,7 +23,7 @@ costs $1.25 and they say they give it $2.07 the program would print out 3 quarte
 
 using namespace std;
 
-int main() {
+int main10() {
 
 	// Variables (can't remember arrays or cases)
 	double item1, item2, item3, item4, item5, item6, item7, item8, item9, item10, item11, item12, item13;
@@ -76,7 +76,7 @@ int main() {
 	if (confirm == true) {
 		cout << "You have confirmed " << number << " as your choice." << endl;
 		cout << "Processing..." << endl;
-		number = ;
+		number;
 	}
 	else {
 		cout << "Please restart this program if you wish to redo." << endl;
@@ -98,7 +98,7 @@ int main() {
 	cout << "Enter payment: " << endl;
 	cin >> cash;
 	cout << "You have entered " << cash << " dollars. Calculating change... " << endl;
-	calculation = cash - 
+	//calculation = cash - ;
 
 
 	return 0;
