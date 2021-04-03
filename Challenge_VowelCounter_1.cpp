@@ -19,7 +19,7 @@ counts.
 
 */
 
-int main() {
+int main12() {
     
     //Stole from google. Going back down to Level 1 ideas and codecademy.
 

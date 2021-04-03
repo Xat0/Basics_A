@@ -48,5 +48,8 @@
     <ClCompile Include="Challenge_VowelCounter_1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CoinFlip_1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
