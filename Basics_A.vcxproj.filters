@@ -60,5 +60,8 @@
     <ClCompile Include="16a_If_Testing.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="17a_Challenge_Tax_Calculator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

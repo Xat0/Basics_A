@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="16a_If_Testing.cpp" />
+    <ClCompile Include="17a_Challenge_Tax_Calculator.cpp" />
     <ClCompile Include="Basics_A.cpp" />
     <ClCompile Include="Basics_B.cpp" />
     <ClCompile Include="Basics_C.cpp" />
